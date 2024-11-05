@@ -1,3 +1,5 @@
+![finance-accounting-analyze](finance-accounting-analyze.jpg)
+
 # Financial_Loan_Insights
 
 ## Table of Contents
