@@ -21,9 +21,13 @@ Also assess debt-to-income (DTI) ratios on a monthly basis, investigate loan amo
 ## Objectives
 
 **Analyze Loan Applications:** To explore the total number of loan applications and the total funded amount to assess the lending landscape.
+
 **Evaluate Financial Metrics:** To calculate average interest rates and debt-to-income (DTI) ratios, providing insights into borrower financial health.
+
 **Categorize Loan Performance:** To distinguish between good and bad loans, analyzing the implications for lenders and borrowers.
+
 **Examine Geographic Trends:** To investigate loan amounts issued by state and distribution across application types, identifying regional lending patterns.
+
 **Inform Decision-Making:** To utilize findings to support data-driven decisions in the banking sector, fostering responsible lending practices.
 
 
